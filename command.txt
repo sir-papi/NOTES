@@ -1,0 +1,8 @@
+total 8
+drwxr-xr-x@  4 apple  staff  128 Mar 11 00:41 _pages
+drwxr-xr-x@ 12 apple  staff  384 Mar 11 04:07 _people
+drwxr-xr-x@  8 apple  staff  256 Mar 11 01:41 _places
+drwxr-xr-x@  3 apple  staff   96 Mar 11 00:44 _posts
+drwxr-xr-x@  3 apple  staff   96 Mar 11 01:58 _tools
+-rw-r--r--@  1 apple  staff    0 Mar 11 07:24 command.txt
+-rw-r--r--@  1 apple  staff  358 Mar 11 01:26 mission statement.md
